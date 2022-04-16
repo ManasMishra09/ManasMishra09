@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasMishra09
-- 👀 I’m interested in APP DEVELOPEMENT
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning python,node.js.
 - 💞️ I’m looking to collaborate on LEARNING AND EXPLORING
 - 📫 How to reach me EMAIL ME ON sanamormanas1999@gmail.com
 
