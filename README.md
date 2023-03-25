@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManasMishra09
 - 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning frontend and Backend and flutter as well.
+- 🌱 I’m currently learning backend with nodejs and react-native for apps.
 - 💞️ I’m looking to collaborate on web and app.
 - 📫 How to reach me EMAIL ME ON manasmishra2401@gmail.com
 
