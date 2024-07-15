@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Mishra</h1>
-<h3 align="center">A passionate Software Developer.</h3>
+<h3 align="center">Software Developer.</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s">
 
