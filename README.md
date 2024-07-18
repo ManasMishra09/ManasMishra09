@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Mishra</h1>
 <h3 align="center">Software Developer.</h3>
 
-<img align="right" alt="coding gif" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&">
+<img align="right" alt="coding gif" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasmishra09&label=Profile%20views&color=0e75b6&style=flat" alt="manasmishra09" /> </p>
 
